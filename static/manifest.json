@@ -1,0 +1,19 @@
+{
+	"id": "/trivia",
+	"name": "Aicacia Trivia",
+	"short_name": "Trivia",
+	"description": "Aicacia Secret Generator/Manager",
+	"version": "1.0",
+	"manifest_version": 3,
+	"icons": [
+		{
+			"src": "/trivia/icon256x256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/trivia",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#07689f"
+}
