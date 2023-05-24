@@ -1,0 +1,1 @@
+import{M as a,r}from"./index.fc72133f.js";import{r as t}from"./Range.dbfb0895.js";function s(){return Math.random()*a|0}const n=6;function f(o=n){return t(0,o-1).iter().map(()=>r()<.25?Math.floor(1+r()*9):String.fromCharCode(97+Math.floor(r()*26))).join("")}export{n as D,s as c,f as g};
